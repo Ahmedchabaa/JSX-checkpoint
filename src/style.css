@@ -1,0 +1,12 @@
+.title {
+ display: flex;
+ justify-content: center;
+ background-color: blueviolet;
+ align-content: space-between;
+}
+.red {
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    background-color: beige;
+}
